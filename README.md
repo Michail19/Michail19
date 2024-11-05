@@ -22,7 +22,7 @@
 ---
 
 ### 🏆 GitHub Достижения
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Michail19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 ### 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michail19&show_icons=true&theme=radical)
 
 
 
