@@ -31,13 +31,6 @@
 - **Android-разработка**: Изучаю создание Android-приложений на Kotlin и Java.
 - **Автоматизация**: Мне интересно автоматизировать задачи и улучшать процессы с помощью CI/CD.
 
-<!--
----
-
-### 📫 Связаться со мной
-- [LinkedIn](https://linkedin.com/in/username)
-- [Email](mailto:mi.ershov.2017@yandex.ru) -->
-
 ---
 
 ### 📊 Статистика
@@ -54,6 +47,11 @@
 ### 🔥 GitHub 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michail19&theme=dark)](https://git.io/streak-stats)
 
+---
+
+### 📫 Связаться со мной
+- :octocat: [GitHub](https://github.com/Michail19)
+- :email: [Email](mailto:mi.ershov.2017@yandex.ru)
 
 
 
