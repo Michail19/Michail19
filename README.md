@@ -4,12 +4,12 @@
 ---
 
 ### 🛠️ Технологии и инструменты, которые я изучаю:
-- **Frontend**: HTML, CSS, JavaScript, React, TypeScript
-- **Backend**: Java, C++, Node.js, Python
-- **Android**: Java, Kotlin, Android SDK
-- **DevOps**: Docker, Git, GitHub Actions
-- **Базы данных**: MySQL, MongoDB
-- **Другие инструменты**: Bash, Linux, CI/CD
+- **Frontend**: HTML, CSS, JavaScript, React, TypeScript 🕸
+- **Backend**: Java ☕, C++, Node.js, Python 🐍
+- **Android**: Java, Kotlin, Android SDK 📱
+- **DevOps**: Docker 🐳, Git, GitHub Actions
+- **Базы данных**: MySQL, MongoDB 📚
+- **Другие инструменты**: Bash, Linux 🖥, CI/CD
 
 ---
 
@@ -45,11 +45,13 @@
 
 ---
 
-### !(https://img.icons8.com/?size=100&id=120390&format=png&color=000000) Используемые языки программирования
+### 💻 Используемые языки программирования
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Используемые языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=Michail19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 🔥 GitHub 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Michail19&theme=dark)](https://git.io/streak-stats)
 
 
 
