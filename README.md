@@ -18,7 +18,7 @@
 - [**Учебное Android-приложение**](https://github.com/Michail19/GDXPaper.git): Мое Android-приложение, разработанное на Java, разработанное для конкурса.
 - [**Учебный сайт**](https://github.com/Michail19/Project_Yandex_PR1.git): Первый простой сайт.
 - [**Учебный проект**](https://github.com/Michail19/HomeworkForKU2.git): Построение графа зависимостей для git коммитов.
-<!-- - [**DevOps скрипты**](https://github.com/username/devops-scripts): Набор скриптов для автоматизации задач DevOps, таких как настройка Docker и CI/CD. -->
+- [**DevOps скрипт**](https://github.com/Michail19/ProjectNIASPO.git): Скрипт для автоматизации задач DevOps, таких как настройка Docker и CI/CD для мобильного приложения.
 
 ---
 
