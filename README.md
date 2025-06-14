@@ -19,7 +19,7 @@
 - [**Учебный сайт**](https://github.com/Michail19/SimpleSheduleWork.git): Сайт для построения графика работы сотрудников.
 - [**Учебный backend сайта**](https://github.com/Michail19/SSW_Backend.git): Backend для сайта для построения графика работы сотрудников.
 - [**Учебный проект**](https://github.com/Michail19/HomeworkForKU2.git): Построение графа зависимостей для git коммитов.
-- [**DevOps скрипт**](https://github.com/Michail19/ProjectNIASPO.git): Скрипт для автоматизации задач DevOps, использование Docker и CI/CD для мобильного приложения.
+- [**Учебный DevOps скрипт**](https://github.com/Michail19/ProjectNIASPO.git): Скрипт для автоматизации задач DevOps, использование Docker и CI/CD для мобильного приложения.
 
 ---
 
