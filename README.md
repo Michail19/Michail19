@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Технологии и инструменты, которые я изучаю:
-- **Frontend**: HTML, CSS, JavaScript, React, TypeScript 🕸
+- **Frontend**: HTML5, CSS3, JavaScript, React, TypeScript 🕸
 - **Backend**: Java ☕, C++, <!-- Node.js, -->Python 🐍
 - **Android**: Java, <!-- Kotlin, -->Android SDK 📱
 - **DevOps**: Docker 🐳, Git, GitHub Actions
