@@ -6,10 +6,10 @@
 
 ### 🛠️ Технологии и инструменты, которые я изучаю:
 - **Frontend**: HTML, CSS, JavaScript, React, TypeScript 🕸
-- **Backend**: Java ☕, C++, Node.js, Python 🐍
-- **Android**: Java, Kotlin, Android SDK 📱
+- **Backend**: Java ☕, C++, <!-- Node.js, -->Python 🐍
+- **Android**: Java, <!-- Kotlin, -->Android SDK 📱
 - **DevOps**: Docker 🐳, Git, GitHub Actions
-- **Базы данных**: MySQL, MongoDB 📚
+- **Базы данных**: PostgreSQL<!-- MySQL, MongoDB--> 📚
 - **Другие инструменты**: Bash, Linux 🖥, CI/CD
 
 ---
